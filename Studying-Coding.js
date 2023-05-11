@@ -1,1 +1,1 @@
-console.log("I'm studyying coding");
+console.log("I'm studying coding");
